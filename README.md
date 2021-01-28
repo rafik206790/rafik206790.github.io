@@ -1,2 +1,2 @@
-# under construction 
+# no co no stronka
 
