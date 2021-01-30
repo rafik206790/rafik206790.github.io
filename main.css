@@ -2,10 +2,10 @@
   font-family: Bahnschrift;
   src: url(font.woff);
 }
-p {
+.defaulttext {
   font-family: Bahnschrift;
 }
-titletext {
+.titletext {
   font-family: Bahnschrift;
   font-size: 32px;
 }
