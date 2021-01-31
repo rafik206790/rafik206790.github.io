@@ -21,6 +21,7 @@ a.link {
   color: black;
   padding: 8px;
   text-decoration: none;
+  margin: auto;
 }
 a.link:hover {
   font-family: Bahnschrift;
@@ -29,4 +30,5 @@ a.link:hover {
   color: white;
   padding: 8px;
   text-decoration: none;
+  margin: auto;
 }
