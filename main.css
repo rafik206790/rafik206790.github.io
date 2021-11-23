@@ -39,7 +39,7 @@ a.link:hover {
   margin: auto;
 }
 .bg-image {
-  background-image: url("bg.jpg");
+  background-image: url("https://rafik206790.github.io/bg.jpg");
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%; 
