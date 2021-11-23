@@ -1,2 +1,2 @@
-# Strona internetowa stworzona na informatykę o tak o
+# strona no bo co no
 
