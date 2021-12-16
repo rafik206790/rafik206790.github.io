@@ -48,6 +48,7 @@ a.link:hover {
   background-repeat: no-repeat;
   background-size: cover;
   transform: scale(1.1);
+  position: fixed;
 }
 .bg-text {
   background-color: rgb(0,0,0);
