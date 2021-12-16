@@ -47,6 +47,10 @@ a.link:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   margin: -10px;
 }
 .bg-text {
