@@ -2,13 +2,19 @@
   font-family: Bahnschrift;
   src: url(font.woff);
 }
+@font-face-m1 {
+  font-family: Montserrat-Bold;
+  src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap);
+}
+@font-face-m2 {
+  font-family: Montserrat-Light;
+  src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&amp;display=swap);
+}
 .defaulttext {
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat-Bold', sans-serif;
 }
 .titletext {
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&amp;display=swap');
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat-Light', sans-serif;
   font-size: 20px;
   background-color: black;
   color: white;
