@@ -3,7 +3,8 @@
   src: url(font.woff);
 }
 .defaulttext {
-  font-family: Bahnschrift;
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  font-family: 'Montserrat', sans-serif;
 }
 .titletext {
   font-family: 'Montserrat', sans-serif;
