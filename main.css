@@ -1,20 +1,13 @@
+
 @font-face {
-  font-family: Bahnschrift;
-  src: url(font.woff);
-}
-@font-face-m1 {
-  font-family: Montserrat-Bold;
-  src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap);
-}
-@font-face-m2 {
-  font-family: Montserrat-Light;
+  font-family: Montserrat;
   src: url(https://fonts.googleapis.com/css2?family=Montserrat:wght@100&amp;display=swap);
 }
 .defaulttext {
-  font-family: 'Montserrat-Bold', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .titletext {
-  font-family: 'Montserrat-Light', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   background-color: black;
   color: white;
@@ -30,7 +23,7 @@ body, html {
   box-sizing: border-box;
 }
 a.link {
-  font-family: Bahnschrift;
+  font-family: Montserrat;
   font-size: 16px;
   background-color: white;
   color: black;
@@ -39,7 +32,7 @@ a.link {
   margin: auto;
 }
 a.link:hover {
-  font-family: Bahnschrift;
+  font-family: Montserrat;
   font-size: 16px;
   background-color: red;
   color: white;
